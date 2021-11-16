@@ -29,7 +29,7 @@
   <artifactId>nxrm3</artifactId>
   <packaging>pom</packaging>
 
-  <version>1.0.4-SNAPSHOT</version>
+  <version>1.0.4-cloudbees-1</version>
 
   <inceptionYear>2019</inceptionYear>
 
@@ -65,7 +65,7 @@
 
   <modules>
     <module>maven-plugin</module>
-    <module>testsuite</module>
+    <!--module>testsuite</module-->
   </modules>
 
   <dependencyManagement>
